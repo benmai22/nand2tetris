@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SymbolTable
+comment1.params=
+comment1.target=SymbolTable()
+comment2.params=symbol\ addr
+comment2.target=void\ addEntry(java.lang.String,\ int)
+comment3.params=symbol
+comment3.target=boolean\ contains(java.lang.String)
+comment4.params=symbol
+comment4.target=int\ getAddress(java.lang.String)
+numComments=5

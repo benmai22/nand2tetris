@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Code
+comment1.params=mnem
+comment1.target=java.lang.String\ dest(java.lang.String)
+comment2.params=mnem
+comment2.target=java.lang.String\ comp(java.lang.String)
+comment3.params=mnem
+comment3.target=java.lang.String\ jump(java.lang.String)
+comment4.params=symbol
+comment4.target=java.lang.String\ convertBinary(java.lang.String)
+numComments=5

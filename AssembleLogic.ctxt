@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AssembleLogic
+comment1.params=input
+comment1.target=AssembleLogic(java.lang.String)
+comment2.params=
+comment2.target=void\ firstPass()
+comment3.params=
+comment3.target=void\ secondPass()
+numComments=4

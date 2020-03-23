@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Parser
+comment1.params=inputfile
+comment1.target=Parser(java.lang.String)
+comment2.params=
+comment2.target=boolean\ hasMoreCommands()
+comment3.params=
+comment3.target=void\ advance()
+comment4.params=
+comment4.target=Parser.Command\ commandType()
+comment5.params=
+comment5.target=java.lang.String\ symbol()
+comment6.params=
+comment6.target=java.lang.String\ dest()
+comment7.params=
+comment7.target=java.lang.String\ comp()
+comment8.params=
+comment8.target=java.lang.String\ jump()
+comment9.params=
+comment9.target=void\ close()
+numComments=10
